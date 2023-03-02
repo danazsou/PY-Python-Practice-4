@@ -97,3 +97,6 @@ def pascal(n):
     # Print out the triangle
     for row in triangle:
         print(row)
+
+
+pascal(10)
